@@ -1,10 +1,10 @@
 # idninja
 
-A new Flutter project.
+A new Flutter project where I designed a business card for me.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application which utilizes simple widgets and styling.
 
 A few resources to get you started if this is your first Flutter project:
 
